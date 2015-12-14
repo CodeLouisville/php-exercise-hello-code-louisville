@@ -1,0 +1,13 @@
+{
+    "name": "codelouisville/php-exercise-1",
+    "description": "Code Louisville PHP Exercise 1",
+    "require": {
+        "phpunit/phpunit": "4.*"
+    },
+    "authors": [
+        {
+            "name": "Jason McCreary",
+            "email": "jason@pureconcepts.net"
+        }
+    ]
+}
