@@ -1,2 +1,2 @@
 <?php
-echo 'What what!';
+echo 'Hello, Code Louisville!';
