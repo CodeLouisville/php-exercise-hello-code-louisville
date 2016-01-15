@@ -1,11 +1,7 @@
-<? php
+<?php
 
 $greeting = "Hello, Code Louisville!";
 
 ?>
 
-<? php
-
-echo $greeting;
-
-?>
+<?php echo $greeting; ?>
