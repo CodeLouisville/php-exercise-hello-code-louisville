@@ -4,4 +4,4 @@ $greeting = "Hello, Code Louisville!";
 
 ?>
 
-<? php echo $greeting ?>
+echo $greeting;
