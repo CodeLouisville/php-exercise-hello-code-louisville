@@ -1,3 +1,4 @@
-<?php $greeting = "Hello, Code Louisville!"; ?>
+<?php
+$greeting = "Hello, Code Louisville!"; 
+echo $greeting;
 
-<?php echo $greeting; ?>
