@@ -1,6 +1,6 @@
 <? php
 
-$greeting = "Hello, Code Louisville!";
+$greeting = "Hello, Code Louisville!"
 
 ?>
 
