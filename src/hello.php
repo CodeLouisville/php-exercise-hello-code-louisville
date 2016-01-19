@@ -1,5 +1,5 @@
-<? php 
+<?php 
 
-echo "Hello, Code Louisville!";
+return "Hello, Code Louisville!";
 
 ?>
