@@ -1,5 +1,3 @@
 <?php 
-
-return "Hello, Code Louisville!";
-
+echo "Hello, Code Louisville!";
 ?>
