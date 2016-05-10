@@ -1,4 +1,4 @@
-<?php
+<?php echo "Hello, Code Louisville" ?>
 
 class OutputTest extends PHPUnit_Framework_TestCase
 {
