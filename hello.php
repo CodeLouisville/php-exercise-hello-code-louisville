@@ -1,5 +1,15 @@
-<?php 
+﻿<!DOCTYPE html>
 
-echo "Hello, Code Louisville!";
+<html>
+<head>
+    <title>Hello!</title>
+</head>
+<body>
+    <?php
 
-php?>
+    echo "Hello, Code Louisville!"
+
+    ?>
+
+</body>
+</html>
