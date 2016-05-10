@@ -1,10 +1,10 @@
 <?php
-  $hello = "Hello, Code Louisville!";
+  $greet = "Hello, Code Louisville!";
  ?>
 
 <!DOCTYPE html>
 <html>
   <body>
-    <p><?php echo $hello ?></p>
+    <p><?php echo $greet ?></p>
   </body>
 </html>
