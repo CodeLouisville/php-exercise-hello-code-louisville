@@ -1,8 +1,2 @@
-
-
-<?php
-
-echo "Hello, Code Louisville"
-
-?>
+"Hello, Code Louisville"
 
